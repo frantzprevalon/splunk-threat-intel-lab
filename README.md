@@ -12,6 +12,10 @@ Home lab for practicing SIEM data onboarding, detection engineering, and threat 
 | linux | /var/log/auth.log | linux_secure |
 | linux | /var/log/syslog, kern.log | syslog |
 
+![Data inputs](screenshots/linux_data_inputs.png)
+
+![Events by source](screenshots/linux_index_sourcetypes.png)
+
 ## Detections
 | Detection | MITRE ATT&CK | File |
 |---|---|---|

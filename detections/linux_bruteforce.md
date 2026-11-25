@@ -30,3 +30,16 @@ and sudo logs one summary line per 3 failed tries. Fixed by pulling the username
 ## False positives
 - A user mistyping their password several times
 - Automation with expired credentials
+
+## Evidence
+**Detection results**
+![Detection results](../screenshots/bruteforce_results.png)
+
+**Raw events**
+![Raw events](../screenshots/bruteforce_raw_events.png)
+
+**Alert configuration**
+![Alert settings](../screenshots/bruteforce_alert_settings.png)
+
+**Alert fired**
+![Triggered alert](../screenshots/bruteforce_alert_triggered.png)
