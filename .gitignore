@@ -221,3 +221,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+.env
+*.key
+*.pem
+config.ini
+.env
+*.key
+*.pem
+config.ini
