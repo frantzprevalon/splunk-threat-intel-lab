@@ -20,6 +20,7 @@ Home lab for practicing SIEM data onboarding, detection engineering, and threat 
 | Detection | MITRE ATT&CK | File |
 |---|---|---|
 | Linux brute force | T1110 | [linux_bruteforce.md](detections/linux_bruteforce.md) |
+| New local user created | T1136.001 | [linux_new_user.md](detections/linux_new_user.md) |
 
 ## Troubleshooting notes
 - Splunk Web timed out at 3.8 GB RAM because the VM was swapping; raised it to 7.5 GB.
