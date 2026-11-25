@@ -20,6 +20,7 @@ Home lab for practicing SIEM data onboarding, detection engineering, and threat 
 | Detection | MITRE ATT&CK | File |
 |---|---|---|
 | Linux brute force | T1110 | [linux_bruteforce.md](detections/linux_bruteforce.md) |
+| Sudo success after failures | T1110, T1078 | [linux_sudo_success_after_failures.md](detections/linux_sudo_success_after_failures.md) |
 | New local user created | T1136.001 | [linux_new_user.md](detections/linux_new_user.md) |
 
 ## Troubleshooting notes
